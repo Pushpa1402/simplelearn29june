@@ -1,1 +1,20 @@
-simplilearn
+git rm -- cached filename\
+
+git commit -m "modified"
+
+git config global user.email "pushpa.mr88@gmail.com"
+git log
+git status
+git rm --cached Hello.txt.txt
+git add
+git init
+git push -u origin master
+
+stash
+cherry-pick
+
+winmerge
+
+changes
+hello
+heyheye
